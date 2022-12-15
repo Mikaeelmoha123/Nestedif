@@ -25,6 +25,10 @@ int main()
         {
             cout << "Assign to the art play group" + Name;
         }
+        else
+        {
+            cout << "Admit to any group" + Name;
+        }
     }
     else 
     {
