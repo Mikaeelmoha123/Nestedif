@@ -26,7 +26,7 @@ int main()
             cout << "Assign to the art play group" + Name;
         }
     }
-    else if (age < 4 && age > 10)
+    else 
     {
         cout << "Age input is invalid";
     }
